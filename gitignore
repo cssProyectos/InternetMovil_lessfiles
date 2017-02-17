@@ -25,7 +25,7 @@
 *.sql
 *.sqlite
 *.ini
-/node_modules
+/node_modules/*
  
 # OS generated files #
 ######################
